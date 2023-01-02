@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import TopBar from "./components/TopBar";
-import FooterMenu from "./components/FooterMenu";
+// import FooterMenu from "./components/FooterMenu";
 import Content from "./components/Content";
 
 class App extends Component {
@@ -17,13 +17,13 @@ class App extends Component {
       footerMenuHeight: 50
     };
 
-    const menuItems = [
-      { icon: `😀`, text: "Item 1" },
-      { icon: `😉`, text: "Item 2" },
-      { icon: `😎`, text: "Item 3" },
-      { icon: `🤔`, text: "Item 4" },
-      { icon: `😛`, text: "Item 5" }
-    ];
+    // const menuItems = [
+    //   { icon: `😀`, text: "Item 1" },
+    //   { icon: `😉`, text: "Item 2" },
+    //   { icon: `😎`, text: "Item 3" },
+    //   { icon: `🤔`, text: "Item 4" },
+    //   { icon: `😛`, text: "Item 5" }
+    // ];
 
     return (
       <div
@@ -35,7 +35,7 @@ class App extends Component {
       >
         <TopBar styles={styles} />
         <Content styles={styles} />
-        <FooterMenu menuItems={menuItems} styles={styles} />
+        {/* <FooterMenu menuItems={menuItems} styles={styles} /> */}
       </div>
     );
   }
