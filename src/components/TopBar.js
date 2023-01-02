@@ -19,7 +19,7 @@ const TopBar = ({ styles }) => {
   return (
     <div style={topBarStyle}>
       <span></span>
-      OSA Bible Reading Plan
+      OSA Bible Reading Plan - 2023
       <span></span>
     </div>
   );

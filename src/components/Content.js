@@ -17,8 +17,8 @@ const Content = ({ styles }) => {
         return (
           <div key={i} style={{ marginBottom: 40 }}>
             <h2 style={{ marginBottom: 0 }}>{moment(post.day).format('dddd MMMM D, YYYY')}</h2>
-            <p>{post.oldTestament}</p>
-            <p>{post.newTestament}</p>
+            <p>{post.oldTestament !== '' ? `Old Testament: ${post.oldTestament}`: '' }</p>
+            <p>{post.newTestament !== '' ? `New Testament: ${post.newTestament}` : '' }</p>
           </div>
         );
       })}
