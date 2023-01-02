@@ -1,0 +1,1462 @@
+{
+    "2023-01-01": {
+        "oldTestament": "Psalms 1-4",
+        "newTestament": ""
+    },
+    "2023-01-02": {
+        "oldTestament": "Genesis 1-2",
+        "newTestament": "Matthew 1"
+    },
+    "2023-01-03": {
+        "oldTestament": "Genesis 3-5",
+        "newTestament": "Matthew 2"
+    },
+    "2023-01-04": {
+        "oldTestament": "Genesis 6:1-9:17",
+        "newTestament": "Matthew 3"
+    },
+    "2023-01-05": {
+        "oldTestament": "Genesis 9:18-11:32",
+        "newTestament": "Matthew 4"
+    },
+    "2023-01-06": {
+        "oldTestament": "Genesis 12-16",
+        "newTestament": "Matthew 5:1-16"
+    },
+    "2023-01-07": {
+        "oldTestament": "Genesis 17-19",
+        "newTestament": "Matthew 5:17-48"
+    },
+    "2023-01-08": {
+        "oldTestament": "Psalms 5-8",
+        "newTestament": ""
+    },
+    "2023-01-09": {
+        "oldTestament": "Genesis 20-23",
+        "newTestament": "Matthew 6:1-18"
+    },
+    "2023-01-10": {
+        "oldTestament": "Genesis 24-26",
+        "newTestament": "Matthew 6:19-34"
+    },
+    "2023-01-11": {
+        "oldTestament": "Genesis 27-28",
+        "newTestament": "Matthew 7"
+    },
+    "2023-01-12": {
+        "oldTestament": "Genesis 29-30",
+        "newTestament": "Matthew 8:1-22"
+    },
+    "2023-01-13": {
+        "oldTestament": "Genesis 31-33",
+        "newTestament": "Matthew 8:23-9:13"
+    },
+    "2023-01-14": {
+        "oldTestament": "Genesis 34-36",
+        "newTestament": "Matthew 9:14-38"
+    },
+    "2023-01-15": {
+        "oldTestament": "Psalms 9-12",
+        "newTestament": ""
+    },
+    "2023-01-16": {
+        "oldTestament": "Genesis 37-39",
+        "newTestament": "Matthew 10"
+    },
+    "2023-01-17": {
+        "oldTestament": "Genesis 40-41",
+        "newTestament": "Matthew 11:1-24"
+    },
+    "2023-01-18": {
+        "oldTestament": "Genesis 42-43",
+        "newTestament": "Matthew 11:25-12:21"
+    },
+    "2023-01-19": {
+        "oldTestament": "Genesis 44-45",
+        "newTestament": "Matthew 12:22-50"
+    },
+    "2023-01-20": {
+        "oldTestament": "Genesis 46-48",
+        "newTestament": "Matthew 13:1-23"
+    },
+    "2023-01-21": {
+        "oldTestament": "Genesis 49-50",
+        "newTestament": "Matthew 13:24-52"
+    },
+    "2023-01-22": {
+        "oldTestament": "Psalms 13-17",
+        "newTestament": ""
+    },
+    "2023-01-23": {
+        "oldTestament": "Exodus 1:1-4:17",
+        "newTestament": "Matthew 13:53-14:36"
+    },
+    "2023-01-24": {
+        "oldTestament": "Exodus 4:18-7:5",
+        "newTestament": "Matthew 15:1-28"
+    },
+    "2023-01-25": {
+        "oldTestament": "Exodus 7:6-9:35",
+        "newTestament": "Matthew 15:29-16:12"
+    },
+    "2023-01-26": {
+        "oldTestament": "Exodus 10-12",
+        "newTestament": "Matthew 16:13-28"
+    },
+    "2023-01-27": {
+        "oldTestament": "Exodus 13:1-15:21",
+        "newTestament": "Matthew 17:1-23"
+    },
+    "2023-01-28": {
+        "oldTestament": "Exodus 15:22-18:27",
+        "newTestament": "Matthew 17:24-18:35"
+    },
+    "2023-01-29": {
+        "oldTestament": "Psalms 18",
+        "newTestament": ""
+    },
+    "2023-01-30": {
+        "oldTestament": "Exodus 19-21",
+        "newTestament": "Matthew 19:1-20:16"
+    },
+    "2023-01-31": {
+        "oldTestament": "Exodus 22-24",
+        "newTestament": "Matthew 20:17-21:11"
+    },
+    "2023-02-01": {
+        "oldTestament": "Exodus 25-27",
+        "newTestament": "Matthew 21:12-32"
+    },
+    "2023-02-02": {
+        "oldTestament": "Exodus 28-29",
+        "newTestament": "Matthew 21:33—22:14"
+    },
+    "2023-02-03": {
+        "oldTestament": "Exodus 30-31",
+        "newTestament": "Matthew 22:15-46"
+    },
+    "2023-02-04": {
+        "oldTestament": "Exodus 32-34",
+        "newTestament": "Matthew 23"
+    },
+    "2023-02-05": {
+        "oldTestament": "Psalms 19-21",
+        "newTestament": ""
+    },
+    "2023-02-06": {
+        "oldTestament": "Exodus 35-37",
+        "newTestament": "Matthew 24:1-35"
+    },
+    "2023-02-07": {
+        "oldTestament": "Exodus 38-40",
+        "newTestament": "Matthew 24:36-25:13"
+    },
+    "2023-02-08": {
+        "oldTestament": "Leviticus 1-3",
+        "newTestament": "Matthew 25:14-46"
+    },
+    "2023-02-09": {
+        "oldTestament": "Leviticus 4:1-6:7",
+        "newTestament": "Matthew 26:1-35"
+    },
+    "2023-02-10": {
+        "oldTestament": "Leviticus 6:8-7:38",
+        "newTestament": "Matthew 26:36-56"
+    },
+    "2023-02-11": {
+        "oldTestament": "Leviticus 8-10",
+        "newTestament": "Matthew 26:57-75"
+    },
+    "2023-02-11": {
+        "oldTestament": "Leviticus 11-12",
+        "newTestament": "Matthew 27:1-31"
+    },
+    "2023-02-12": {
+        "oldTestament": "Psalms 22-24",
+        "newTestament": ""
+    },
+    "2023-02-14": {
+        "oldTestament": "Leviticus 13-14",
+        "newTestament": "Matthew 27:32-66"
+    },
+    "2023-02-15": {
+        "oldTestament": "Leviticus 15-17",
+        "newTestament": "Matthew 28"
+    },
+    "2023-02-16": {
+        "oldTestament": "Leviticus 18-20",
+        "newTestament": "Mark 1:1-20"
+    },
+    "2023-02-17": {
+        "oldTestament": "Leviticus 21-23",
+        "newTestament": "Mark 1:21-45"
+    },
+    "2023-02-18": {
+        "oldTestament": "Leviticus 24-25",
+        "newTestament": "Mark 1-46- 2-22"
+    },
+    "2023-02-19": {
+        "oldTestament": "Psalm 25-27",
+        "newTestament": ""
+    },
+    "2023-02-20": {
+        "oldTestament": "Leviticus 26-27",
+        "newTestament": "Mark 2:23-3:35"
+    },
+    "2023-02-21": {
+        "oldTestament": "Numbers 1-2",
+        "newTestament": "Mark 4:1-34"
+    },
+    "2023-02-22": {
+        "oldTestament": "Numbers 3-4",
+        "newTestament": "Mark 4:35-5:20"
+    },
+    "2023-02-23": {
+        "oldTestament": "Numbers 5-6",
+        "newTestament": "Mark 5:21-6:6"
+    },
+    "2023-02-24": {
+        "oldTestament": "Numbers 7",
+        "newTestament": "Mark 6:7-29"
+    },
+    "2023-02-25": {
+        "oldTestament": "Numbers 8-9",
+        "newTestament": "Mark 6:30-56"
+    },
+    "2023-02-26": {
+        "oldTestament": "Psalms 28-30",
+        "newTestament": ""
+    },
+    "2023-02-27": {
+        "oldTestament": "Numbers 10-11",
+        "newTestament": "Mark 7:1-30"
+    },
+    "2023-02-28": {
+        "oldTestament": "Numbers 12-13",
+        "newTestament": "Mark 7:31-8:21"
+    },
+    "2023-03-01": {
+        "oldTestament": "Numbers 14-15",
+        "newTestament": "Mark 8:22-9:13"
+    },
+    "2023-03-02": {
+        "oldTestament": "Numbers 16-17",
+        "newTestament": "Mark 9:14-32"
+    },
+    "2023-03-03": {
+        "oldTestament": "Numbers 18-19",
+        "newTestament": "Mark 9:33-50"
+    },
+    "2023-03-04": {
+        "oldTestament": "Numbers 20-21",
+        "newTestament": "Mark 10:1-35"
+    },
+    "2023-03-05": {
+        "oldTestament": "Psalms 31-33",
+        "newTestament": ""
+    },
+    "2023-03-06": {
+        "oldTestament": "Numbers 22:1-23:26",
+        "newTestament": "Mark 10:32-52"
+    },
+    "2023-03-07": {
+        "oldTestament": "Numbers 23:27-25:18",
+        "newTestament": "Mark 11:1-25"
+    },
+    "2023-03-08": {
+        "oldTestament": "Numbers 26-27",
+        "newTestament": "Mark 11:26-12:12"
+    },
+    "2023-03-09": {
+        "oldTestament": "Numbers 28-30",
+        "newTestament": "Mark 12:13-12:27"
+    },
+    "2023-03-10": {
+        "oldTestament": "Numbers 31-32",
+        "newTestament": "Mark 12:28-44"
+    },
+    "2023-03-11": {
+        "oldTestament": "Numbers 33-36",
+        "newTestament": "Mark 13"
+    },
+    "2023-03-12": {
+        "oldTestament": "Psalms 34-35",
+        "newTestament": ""
+    },
+    "2023-03-13": {
+        "oldTestament": "Deuteronomy 1",
+        "newTestament": "Mark 14:1-26"
+    },
+    "2023-03-14": {
+        "oldTestament": "Deuteronomy 2-3",
+        "newTestament": "Mark 14:27-52"
+    },
+    "2023-03-15": {
+        "oldTestament": "Deuteronomy 4-5",
+        "newTestament": "Mark 14:53-72"
+    },
+    "2023-03-16": {
+        "oldTestament": "Deuteronomy 6:1-9:6",
+        "newTestament": "Mark 15:1-41"
+    },
+    "2023-03-17": {
+        "oldTestament": "Deuteronomy 9:7-11:32",
+        "newTestament": "Mark 15:42-16:20"
+    },
+    "2023-03-18": {
+        "oldTestament": "Deuteronomy 12-14",
+        "newTestament": "Luke 1:1-25"
+    },
+    "2023-03-19": {
+        "oldTestament": "Psalms 36-37",
+        "newTestament": ""
+    },
+    "2023-03-20": {
+        "oldTestament": "Deuteronomy 15-17",
+        "newTestament": "Luke 1:26-56"
+    },
+    "2023-03-21": {
+        "oldTestament": "Deuteronomy 18-20",
+        "newTestament": "Luke 1:57-80"
+    },
+    "2023-03-22": {
+        "oldTestament": "Deuteronomy 21:1-23:14",
+        "newTestament": "Luke 2:1-20"
+    },
+    "2023-03-23": {
+        "oldTestament": "Deuteronomy 23:15-26:19",
+        "newTestament": "Luke 2:21-52"
+    },
+    "2023-03-24": {
+        "oldTestament": "Deuteronomy 27-28",
+        "newTestament": "Luke 3:1-20"
+    },
+    "2023-03-25": {
+        "oldTestament": "Deuteronomy 29:1-31:13",
+        "newTestament": "Luke 3:21-4:13"
+    },
+    "2023-03-26": {
+        "oldTestament": "Psalms 38-39",
+        "newTestament": ""
+    },
+    "2023-03-27": {
+        "oldTestament": "Deuteronomy 31:14-32:52",
+        "newTestament": "Luke 4:14-44"
+    },
+    "2023-03-28": {
+        "oldTestament": "Deuteronomy 33-34",
+        "newTestament": "Luke 5:1-26"
+    },
+    "2023-03-29": {
+        "oldTestament": "Joshua 1-2",
+        "newTestament": "Luke 5:27-6:16"
+    },
+    "2023-03-30": {
+        "oldTestament": "Joshua 3:1-5:12",
+        "newTestament": "Luke 6:17-36"
+    },
+    "2023-03-31": {
+        "oldTestament": "Joshua 5:13-7:26",
+        "newTestament": "Luke 6:37-49"
+    },
+    "2023-04-01": {
+        "oldTestament": "Joshua 8-9",
+        "newTestament": "Luke 7:1-17"
+    },
+    "2023-04-02": {
+        "oldTestament": "Psalms 40-41",
+        "newTestament": ""
+    },
+    "2023-04-03": {
+        "oldTestament": "Joshua 10-12",
+        "newTestament": "Luke 7:18-35"
+    },
+    "2023-04-04": {
+        "oldTestament": "Joshua 13-15",
+        "newTestament": "Luke 7:36-50"
+    },
+    "2023-04-05": {
+        "oldTestament": "Joshua 16-19",
+        "newTestament": "Luke 8:1-21"
+    },
+    "2023-04-06": {
+        "oldTestament": "Joshua 20-22",
+        "newTestament": "Luke 8:22-39"
+    },
+    "2023-04-07": {
+        "oldTestament": "Isaiah 52;13-53:12",
+        "newTestament": ""
+    },
+    "2023-04-08": {
+        "oldTestament": "John 18-19",
+        "newTestament": ""
+    },
+    "2023-04-09": {
+        "oldTestament": "John 20",
+        "newTestament": ""
+    },
+    "2023-04-10": {
+        "oldTestament": "Joshua 23-24",
+        "newTestament": "Luke 8:40-56"
+    },
+    "2023-04-11": {
+        "oldTestament": "Judges 1:1-3:6",
+        "newTestament": "Luke 9:1-17"
+    },
+    "2023-04-12": {
+        "oldTestament": "Judges 3:7-5:31",
+        "newTestament": "Luke 9:18-45"
+    },
+    "2023-04-13": {
+        "oldTestament": "Judges 6-7",
+        "newTestament": "Luke 9:46-62"
+    },
+    "2023-04-14": {
+        "oldTestament": "Judges 8",
+        "newTestament": "Luke 10:1-12"
+    },
+    "2023-04-15": {
+        "oldTestament": "Judges 9",
+        "newTestament": "Luke 10:12-24"
+    },
+    "2023-04-16": {
+        "oldTestament": "Psalms 42-44",
+        "newTestament": ""
+    },
+    "2023-04-17": {
+        "oldTestament": "Judges 10-12",
+        "newTestament": "Luke 10:25-42"
+    },
+    "2023-04-18": {
+        "oldTestament": "Judges 13-15",
+        "newTestament": "Luke 11:1-28"
+    },
+    "2023-04-19": {
+        "oldTestament": "Judges 16",
+        "newTestament": "Luke 11:29-12:12"
+    },
+    "2023-04-20": {
+        "oldTestament": "Judges 17-18",
+        "newTestament": "Luke 12:13-34"
+    },
+    "2023-04-21": {
+        "oldTestament": "Judges 19-21",
+        "newTestament": "Luke 12:35-13:9"
+    },
+    "2023-04-22": {
+        "oldTestament": "Ruth 1-4",
+        "newTestament": "Luke13:10-35"
+    },
+    "2023-04-23": {
+        "oldTestament": "Psalms 45-47",
+        "newTestament": ""
+    },
+    "2023-04-24": {
+        "oldTestament": "1 Samuel 1:1-4:1a",
+        "newTestament": "Luke 14"
+    },
+    "2023-04-25": {
+        "oldTestament": "1 Samuel 4:1b-7:17",
+        "newTestament": "Luke 15"
+    },
+    "2023-04-26": {
+        "oldTestament": "1 Samuel 8-10",
+        "newTestament": "Luke 16:1-18"
+    },
+    "2023-04-27": {
+        "oldTestament": "1 Samuel 11-12",
+        "newTestament": "Luke 16:19-17:10"
+    },
+    "2023-04-28": {
+        "oldTestament": "1 Samuel 13-14",
+        "newTestament": "Luke 17:11-18:8"
+    },
+    "2023-04-29": {
+        "oldTestament": "1 Samuel 15-16",
+        "newTestament": "Luke 18:9-34"
+    },
+    "2023-04-30": {
+        "oldTestament": "Psalms 48-50",
+        "newTestament": ""
+    },
+    "2023-05-01": {
+        "oldTestament": "1 Samuel 17-18",
+        "newTestament": "Luke 18:35-19:27"
+    },
+    "2023-05-02": {
+        "oldTestament": "1 Samuel 19-20",
+        "newTestament": "Luke 19:28-48"
+    },
+    "2023-05-03": {
+        "oldTestament": "1 Samuel 21-23",
+        "newTestament": "Luke 20:1-19"
+    },
+    "2023-05-04": {
+        "oldTestament": "1 Samuel 24-25",
+        "newTestament": "Luke 20:20-21:4"
+    },
+    "2023-05-05": {
+        "oldTestament": "1 Samuel 26-28",
+        "newTestament": "Luke 21:5-38"
+    },
+    "2023-05-06": {
+        "oldTestament": "1 Samuel 29-31",
+        "newTestament": "Luke 22:1-38"
+    },
+    "2023-05-07": {
+        "oldTestament": "Psalms 51-54",
+        "newTestament": ""
+    },
+    "2023-05-08": {
+        "oldTestament": "2 Samuel 1:1-3:5",
+        "newTestament": "Luke 22:39-65"
+    },
+    "2023-05-09": {
+        "oldTestament": "2 Samuel 3:6-5:25",
+        "newTestament": "Luke 22:66-23:25"
+    },
+    "2023-05-10": {
+        "oldTestament": "2 Samuel 6-7",
+        "newTestament": "Luke 23:26-56"
+    },
+    "2023-05-11": {
+        "oldTestament": "2 Samuel 8-10",
+        "newTestament": "Luke 24"
+    },
+    "2023-05-12": {
+        "oldTestament": "2 Samuel 11-12",
+        "newTestament": "John 1:1-28"
+    },
+    "2023-05-13": {
+        "oldTestament": "2 Samuel 13-14",
+        "newTestament": "John 1:29-51"
+    },
+    "2023-05-14": {
+        "oldTestament": "Psalms 55-57",
+        "newTestament": ""
+    },
+    "2023-05-15": {
+        "oldTestament": "2 Samuel 15-17",
+        "newTestament": "John 2"
+    },
+    "2023-05-16": {
+        "oldTestament": "2 Samuel 18-20",
+        "newTestament": "John 3"
+    },
+    "2023-05-17": {
+        "oldTestament": "2 Samuel 21-22",
+        "newTestament": "John 4"
+    },
+    "2023-05-18": {
+        "oldTestament": "2 Samuel 23-24",
+        "newTestament": "John 5:1-15"
+    },
+    "2023-05-19": {
+        "oldTestament": "1 Kings 1-2",
+        "newTestament": "John 5:16-47"
+    },
+    "2023-05-20": {
+        "oldTestament": "1 Kings 3-4",
+        "newTestament": "John 6:1-24"
+    },
+    "2023-05-21": {
+        "oldTestament": "Psalms 58-60",
+        "newTestament": ""
+    },
+    "2023-05-22": {
+        "oldTestament": "1 Kings 5-7",
+        "newTestament": "John 6:25-71"
+    },
+    "2023-05-23": {
+        "oldTestament": "1 Kings 8",
+        "newTestament": "John 7:1-24"
+    },
+    "2023-05-24": {
+        "oldTestament": "1 Kings 9-11",
+        "newTestament": "John 7:25-52"
+    },
+    "2023-05-25": {
+        "oldTestament": "1 Kings 12:1-14:20",
+        "newTestament": "John 7:53-8:30"
+    },
+    "2023-05-26": {
+        "oldTestament": "1 Kings 14:21-16:34",
+        "newTestament": "John 8:31-59"
+    },
+    "2023-05-27": {
+        "oldTestament": "1 Kings 17-19",
+        "newTestament": "John 9"
+    },
+    "2023-05-28": {
+        "oldTestament": "Psalms 61-64",
+        "newTestament": ""
+    },
+    "2023-05-29": {
+        "oldTestament": "1 Kings 20-21",
+        "newTestament": "John 10"
+    },
+    "2023-05-30": {
+        "oldTestament": "1 Kings 22",
+        "newTestament": "John 11:1-44"
+    },
+    "2023-05-31": {
+        "oldTestament": "2 Kings 1-3",
+        "newTestament": "John 11:45-12:11"
+    },
+    "2023-06-01": {
+        "oldTestament": "2 Kings 4-5",
+        "newTestament": "John 12:12-50"
+    },
+    "2023-06-02": {
+        "oldTestament": "2 Kings 6:1-8:6",
+        "newTestament": "John 13:1-17"
+    },
+    "2023-06-03": {
+        "oldTestament": "2 Kings 8:7-10:36",
+        "newTestament": "John 13:18-38"
+    },
+    "2023-06-04": {
+        "oldTestament": "Psalm 65-67",
+        "newTestament": ""
+    },
+    "2023-06-05": {
+        "oldTestament": "2 Kings 11-13",
+        "newTestament": "John 14:1-14"
+    },
+    "2023-06-06": {
+        "oldTestament": "2 Kings 14-15",
+        "newTestament": "John 14:15-31"
+    },
+    "2023-06-07": {
+        "oldTestament": "2 Kings 16-17",
+        "newTestament": "John 15:1-17"
+    },
+    "2023-06-08": {
+        "oldTestament": "2 Kings 18-19",
+        "newTestament": "John 15:18-16:4"
+    },
+    "2023-06-09": {
+        "oldTestament": "2 Kings 20-21",
+        "newTestament": "John 16:5-33"
+    },
+    "2023-06-10": {
+        "oldTestament": "2 Kings 22:1-23:30",
+        "newTestament": "John 17"
+    },
+    "2023-06-11": {
+        "oldTestament": "Psalms 68",
+        "newTestament": ""
+    },
+    "2023-06-12": {
+        "oldTestament": "2 Kings 23:31-25:30",
+        "newTestament": "John 18:1-27"
+    },
+    "2023-06-13": {
+        "oldTestament": "1 Chronicles 1-2",
+        "newTestament": "John 18:28-19:16a"
+    },
+    "2023-06-14": {
+        "oldTestament": "1 Chronicles 3-4",
+        "newTestament": "John 19:16b-42"
+    },
+    "2023-06-15": {
+        "oldTestament": "1 Chronicles 5-6",
+        "newTestament": "John 20"
+    },
+    "2023-06-16": {
+        "oldTestament": "1 Chronicles 7-9",
+        "newTestament": "John 21"
+    },
+    "2023-06-17": {
+        "oldTestament": "1 Chronicles 10-12",
+        "newTestament": "Acts 1"
+    },
+    "2023-06-18": {
+        "oldTestament": "Psalms 69-70",
+        "newTestament": ""
+    },
+    "2023-06-19": {
+        "oldTestament": "1 Chronicles 13-16",
+        "newTestament": "Acts 2"
+    },
+    "2023-06-20": {
+        "oldTestament": "1 Chronicles 17-20",
+        "newTestament": "Acts 3"
+    },
+    "2023-06-21": {
+        "oldTestament": "1 Chronicles 21-22",
+        "newTestament": "Acts 4:1-31"
+    },
+    "2023-06-22": {
+        "oldTestament": "1 Chronicles 23-25",
+        "newTestament": "Acts 4:32-5:16"
+    },
+    "2023-06-23": {
+        "oldTestament": "1 Chronicles 26-27",
+        "newTestament": "Acts 5:17-42"
+    },
+    "2023-06-24": {
+        "oldTestament": "1 Chronicles 28-29",
+        "newTestament": "Acts 6"
+    },
+    "2023-06-25": {
+        "oldTestament": "Psalms 71-72",
+        "newTestament": ""
+    },
+    "2023-06-26": {
+        "oldTestament": "2 Chronicles 1:1-5:1",
+        "newTestament": "Acts 7:1-8:3"
+    },
+    "2023-06-27": {
+        "oldTestament": "2 Chronicles 5:2-7:22",
+        "newTestament": "Acts 8:4-40"
+    },
+    "2023-06-28": {
+        "oldTestament": "2 Chronicles 8-9",
+        "newTestament": "Acts 9:1-31"
+    },
+    "2023-06-29": {
+        "oldTestament": "2 Chronicles 10:1-14:1",
+        "newTestament": "Acts 9:32-10:8"
+    },
+    "2023-06-30": {
+        "oldTestament": "2 Chronicles 14:2-16:14",
+        "newTestament": "Acts 10:9-48"
+    },
+    "2023-07-01": {
+        "oldTestament": "2 Chronicles 17:1-19:3",
+        "newTestament": "Acts 11"
+    },
+    "2023-07-02": {
+        "oldTestament": "Psalms 73-74",
+        "newTestament": ""
+    },
+    "2023-07-03": {
+        "oldTestament": "2 Chronicles 19:4-21:3",
+        "newTestament": "Acts 12"
+    },
+    "2023-07-04": {
+        "oldTestament": "2 Chronicles 21:4-24:27",
+        "newTestament": "Acts 13"
+    },
+    "2023-07-05": {
+        "oldTestament": "2 Chronicles 25-28",
+        "newTestament": "Acts 14"
+    },
+    "2023-07-06": {
+        "oldTestament": "2 Chronicles 29:1-31:1",
+        "newTestament": "Acts 15:1-35"
+    },
+    "2023-07-07": {
+        "oldTestament": "2 Chronicles 31:2-33:25",
+        "newTestament": "Acts 15:36-16:15"
+    },
+    "2023-07-08": {
+        "oldTestament": "2 Chronicles 34-36",
+        "newTestament": "Acts 16:16-40"
+    },
+    "2023-07-09": {
+        "oldTestament": "Psalm 75-77",
+        "newTestament": ""
+    },
+    "2023-07-10": {
+        "oldTestament": "Ezra 1-3",
+        "newTestament": "Acts 17"
+    },
+    "2023-07-11": {
+        "oldTestament": "Ezra 4-6",
+        "newTestament": "Acts 18"
+    },
+    "2023-07-12": {
+        "oldTestament": "Ezra 7-8",
+        "newTestament": "Acts 19:1-22"
+    },
+    "2023-07-13": {
+        "oldTestament": "Ezra 9-10",
+        "newTestament": "Acts 19:23-20:6"
+    },
+    "2023-07-14": {
+        "oldTestament": "Nehemiah 1-3",
+        "newTestament": "Acts 20:7-38"
+    },
+    "2023-07-15": {
+        "oldTestament": "Nehemiah 4-7",
+        "newTestament": "Acts 21:1-36"
+    },
+    "2023-07-16": {
+        "oldTestament": "Psalms 78",
+        "newTestament": ""
+    },
+    "2023-07-17": {
+        "oldTestament": "Nehemiah 8-10",
+        "newTestament": "Acts 21:37-22:29"
+    },
+    "2023-07-18": {
+        "oldTestament": "Nehemiah 11-13",
+        "newTestament": "Acts 22:30-23:35"
+    },
+    "2023-07-19": {
+        "oldTestament": "Esther 1-2",
+        "newTestament": "Acts 24"
+    },
+    "2023-07-20": {
+        "oldTestament": "Esther 3-7",
+        "newTestament": "Acts 25:1-22"
+    },
+    "2023-07-21": {
+        "oldTestament": "Esther 8-10",
+        "newTestament": "Acts 25:23-26:32"
+    },
+    "2023-07-22": {
+        "oldTestament": "Job 1-3",
+        "newTestament": "Acts 27"
+    },
+    "2023-07-23": {
+        "oldTestament": "Psalms 79-81",
+        "newTestament": ""
+    },
+    "2023-07-24": {
+        "oldTestament": "Job 4-7",
+        "newTestament": "Acts 28"
+    },
+    "2023-07-25": {
+        "oldTestament": "Job 8-10",
+        "newTestament": "Romans 1:1-17"
+    },
+    "2023-07-26": {
+        "oldTestament": "Job 11-14",
+        "newTestament": "Romans 1:18-2:16"
+    },
+    "2023-07-27": {
+        "oldTestament": "Job 15-17",
+        "newTestament": "Romans 2:17-3:8"
+    },
+    "2023-07-28": {
+        "oldTestament": "Job 18-19",
+        "newTestament": "Romans 3:9-31"
+    },
+    "2023-07-29": {
+        "oldTestament": "Job 20-21",
+        "newTestament": "Romans 4"
+    },
+    "2023-07-30": {
+        "oldTestament": "Psalms 82-85",
+        "newTestament": ""
+    },
+    "2023-07-31": {
+        "oldTestament": "Job 22-24",
+        "newTestament": "Romans 5"
+    },
+    "2023-08-01": {
+        "oldTestament": "Job 25-28",
+        "newTestament": "Romans 6:1-7:6"
+    },
+    "2023-08-02": {
+        "oldTestament": "Job 29-31",
+        "newTestament": "Romans 7:7-8:17"
+    },
+    "2023-08-03": {
+        "oldTestament": "Job 32-34",
+        "newTestament": "Romans 8:18-39"
+    },
+    "2023-08-04": {
+        "oldTestament": "Job 35-37",
+        "newTestament": "Romans 9:1-29"
+    },
+    "2023-08-05": {
+        "oldTestament": "Job 38-39",
+        "newTestament": "Romans 9:30-10:21"
+    },
+    "2023-08-06": {
+        "oldTestament": "Psalms 86-88",
+        "newTestament": ""
+    },
+    "2023-08-07": {
+        "oldTestament": "Job 40-42",
+        "newTestament": "Romans 11"
+    },
+    "2023-08-08": {
+        "oldTestament": "Proverbs 1-2",
+        "newTestament": "Romans 12"
+    },
+    "2023-08-09": {
+        "oldTestament": "Proverbs 3-4",
+        "newTestament": "Romans 13"
+    },
+    "2023-08-10": {
+        "oldTestament": "Proverbs 5-7",
+        "newTestament": "Romans 14:1-15:13"
+    },
+    "2023-08-11": {
+        "oldTestament": "Proverbs 8-9",
+        "newTestament": "Romans 15:14-33"
+    },
+    "2023-08-12": {
+        "oldTestament": "Proverbs 10-11",
+        "newTestament": "Romans 16"
+    },
+    "2023-08-13": {
+        "oldTestament": "Psalms 89",
+        "newTestament": ""
+    },
+    "2023-08-14": {
+        "oldTestament": "Proverbs 12-13",
+        "newTestament": "1 Corinthians 1:1-17"
+    },
+    "2023-08-15": {
+        "oldTestament": "Proverbs 14-15",
+        "newTestament": "1 Corinthians 1:18-2:16"
+    },
+    "2023-08-16": {
+        "oldTestament": "Proverbs 16-17",
+        "newTestament": "1 Corinthians 3"
+    },
+    "2023-08-17": {
+        "oldTestament": "Proverbs 18-19",
+        "newTestament": "1 Corinthians 4"
+    },
+    "2023-08-18": {
+        "oldTestament": "Proverbs 20:1-22:16",
+        "newTestament": "1 Corinthians 5"
+    },
+    "2023-08-19": {
+        "oldTestament": "Proverbs 22:17-24:34",
+        "newTestament": "1 Corinthians 6"
+    },
+    "2023-08-20": {
+        "oldTestament": "Psalms 90-92",
+        "newTestament": ""
+    },
+    "2023-08-21": {
+        "oldTestament": "Proverbs 25-26",
+        "newTestament": "1 Corinthians 7"
+    },
+    "2023-08-22": {
+        "oldTestament": "Proverbs 27:1-28:14",
+        "newTestament": "1 Corinthians 8"
+    },
+    "2023-08-23": {
+        "oldTestament": "Proverbs 28:15-29:27",
+        "newTestament": "1 Corinthians 9"
+    },
+    "2023-08-24": {
+        "oldTestament": "Proverbs 30-31",
+        "newTestament": "1 Corinthians 10:1-11:1"
+    },
+    "2023-08-25": {
+        "oldTestament": "Ecclesiastes 1-2",
+        "newTestament": "1 Corinthians 11:2-34"
+    },
+    "2023-08-26": {
+        "oldTestament": "Ecclesiastes 3-4",
+        "newTestament": "1 Corinthians 12:1-31a"
+    },
+    "2023-08-27": {
+        "oldTestament": "Psalms 93-96",
+        "newTestament": ""
+    },
+    "2023-08-28": {
+        "oldTestament": "Ecclesiastes 5:1-8:1",
+        "newTestament": "1 Corinthians 12:31b-13:13"
+    },
+    "2023-08-29": {
+        "oldTestament": "Ecclesiastes 8:2-9:12",
+        "newTestament": "1 Corinthians 14"
+    },
+    "2023-08-30": {
+        "oldTestament": "Ecclesiastes 9:13-12:14",
+        "newTestament": "1 Corinthians 15:1-34"
+    },
+    "2023-08-31": {
+        "oldTestament": "Song of Songs 1:1-5:1",
+        "newTestament": "1 Corinthians 15:35-58"
+    },
+    "2023-09-01": {
+        "oldTestament": "Song of Songs 5:2-8:14",
+        "newTestament": "1 Corinthians 16"
+    },
+    "2023-09-02": {
+        "oldTestament": "Isaiah 1:1-2:5",
+        "newTestament": "2 Corinthians 1:1-2:11"
+    },
+    "2023-09-03": {
+        "oldTestament": "Psalms 97-101",
+        "newTestament": ""
+    },
+    "2023-09-04": {
+        "oldTestament": "Isaiah 2:6-4:6",
+        "newTestament": "2 Corinthians 2:12-3:18"
+    },
+    "2023-09-05": {
+        "oldTestament": "Isaiah 5",
+        "newTestament": "2Corinthians 4:1 - 5:10"
+    },
+    "2023-09-06": {
+        "oldTestament": "Isaiah 6:1-8:10",
+        "newTestament": "2 Corinthians  5:11-6:13"
+    },
+    "2023-09-07": {
+        "oldTestament": "Isaiah 8:11-10:4",
+        "newTestament": "2 Corinthians 6:14-7:16"
+    },
+    "2023-09-08": {
+        "oldTestament": "Isaiah 10:5-12:6",
+        "newTestament": "2 Corinthians 8:1-9:15"
+    },
+    "2023-09-09": {
+        "oldTestament": "Isaiah 13-14",
+        "newTestament": "2Corinthians 10:1-11:15"
+    },
+    "2023-09-10": {
+        "oldTestament": "Psalms 102-105",
+        "newTestament": ""
+    },
+    "2023-09-11": {
+        "oldTestament": "Isaiah 15-17",
+        "newTestament": "2 Corinthians 11:16-12:10"
+    },
+    "2023-09-12": {
+        "oldTestament": "Isaiah 18-20",
+        "newTestament": "2 Corinthians 12:11-13:14"
+    },
+    "2023-09-13": {
+        "oldTestament": "Isaiah 21-23",
+        "newTestament": "Galatians 1"
+    },
+    "2023-09-14": {
+        "oldTestament": "Isaiah 24-27",
+        "newTestament": "Galatians 2"
+    },
+    "2023-09-15": {
+        "oldTestament": "Isaiah 28-29",
+        "newTestament": "Galatians 3:1-25"
+    },
+    "2023-09-16": {
+        "oldTestament": "Isaiah 30-31",
+        "newTestament": "Galatians 3:26-4:20"
+    },
+    "2023-09-17": {
+        "oldTestament": "Psalms 106",
+        "newTestament": ""
+    },
+    "2023-09-18": {
+        "oldTestament": "Isaiah 32-35",
+        "newTestament": "Galatians 4:21-5:12"
+    },
+    "2023-09-19": {
+        "oldTestament": "Isaiah 36-39",
+        "newTestament": "Galatians 5:13-6:18"
+    },
+    "2023-09-20": {
+        "oldTestament": "Isaiah 40-41",
+        "newTestament": "Ephesians 1:1-2:10"
+    },
+    "2023-09-21": {
+        "oldTestament": "Isaiah 42:1-44:5",
+        "newTestament": "Ephesians 2:11-3:21"
+    },
+    "2023-09-22": {
+        "oldTestament": "Isaiah 44:6-45:25",
+        "newTestament": "Ephesians 4:1-24"
+    },
+    "2023-09-23": {
+        "oldTestament": "Isaiah 46-48",
+        "newTestament": "Ephesians 4:25-5:21"
+    },
+    "2023-09-24": {
+        "oldTestament": "Psalms 107-108",
+        "newTestament": ""
+    },
+    "2023-09-25": {
+        "oldTestament": "Isaiah 49-50",
+        "newTestament": "Ephesians 5:22-6:24"
+    },
+    "2023-09-26": {
+        "oldTestament": "Isaiah 51:1-52:12",
+        "newTestament": "Philippians 1"
+    },
+    "2023-09-27": {
+        "oldTestament": "Isaiah 52:13-55:13",
+        "newTestament": "Philippians 2"
+    },
+    "2023-09-28": {
+        "oldTestament": "Isaiah 56-57",
+        "newTestament": "Philippians 3:1-4:1"
+    },
+    "2023-09-29": {
+        "oldTestament": "Isaiah 58-59",
+        "newTestament": "Philippians 4:2-23"
+    },
+    "2023-09-30": {
+        "oldTestament": "Isaiah 60-62",
+        "newTestament": "Colossians 1:1-23"
+    },
+    "2023-10-01": {
+        "oldTestament": "Psalms 109-112",
+        "newTestament": ""
+    },
+    "2023-10-02": {
+        "oldTestament": "Isaiah 63-64",
+        "newTestament": "Colossians 1:24-2:23"
+    },
+    "2023-10-03": {
+        "oldTestament": "Isaiah 65-66",
+        "newTestament": "Colossians 3:1-17"
+    },
+    "2023-10-04": {
+        "oldTestament": "Jeremiah 1:1-3:5",
+        "newTestament": "Colossians 3:18-4:18"
+    },
+    "2023-10-05": {
+        "oldTestament": "Jeremiah 3:6-4:31",
+        "newTestament": "1 Tessalonians 1:1-2:16"
+    },
+    "2023-10-06": {
+        "oldTestament": "Jeremiah 5-6",
+        "newTestament": "1 Tessalonians 2:17-4:12"
+    },
+    "2023-10-07": {
+        "oldTestament": "Jeremiah 7-9",
+        "newTestament": "1 Tessalonians 4:13-5:28"
+    },
+    "2023-10-08": {
+        "oldTestament": "Psalms 113-116",
+        "newTestament": ""
+    },
+    "2023-10-09": {
+        "oldTestament": "Jeremiah 10-12",
+        "newTestament": "2 Tessalonians 1"
+    },
+    "2023-10-10": {
+        "oldTestament": "Jeremiah 13-15",
+        "newTestament": "2 Tessalonians 2"
+    },
+    "2023-10-11": {
+        "oldTestament": "Jeremiah 16-17",
+        "newTestament": "2 Tessalonians 3"
+    },
+    "2023-10-12": {
+        "oldTestament": "Jeremiah 18-20",
+        "newTestament": "1 Timothy 1"
+    },
+    "2023-10-13": {
+        "oldTestament": "Jeremiah 21:1-23:8",
+        "newTestament": "1 Timothy 2"
+    },
+    "2023-10-14": {
+        "oldTestament": "Jeremiah 23:9-24:10",
+        "newTestament": "1 Timothy 3"
+    },
+    "2023-10-15": {
+        "oldTestament": "Psalms 117-118",
+        "newTestament": ""
+    },
+    "2023-10-16": {
+        "oldTestament": "Jeremiah 25-26",
+        "newTestament": "1 Timothy 4"
+    },
+    "2023-10-17": {
+        "oldTestament": "Jeremiah 27-29",
+        "newTestament": "1 Timothy 5:1-6:2"
+    },
+    "2023-10-18": {
+        "oldTestament": "Jeremiah 30-31",
+        "newTestament": "1 Timothy 6:3-21"
+    },
+    "2023-10-19": {
+        "oldTestament": "Jeremiah 32-33",
+        "newTestament": "2 Timothy 1"
+    },
+    "2023-10-20": {
+        "oldTestament": "Jeremiah 34-36",
+        "newTestament": "2 Timothy 2"
+    },
+    "2023-10-21": {
+        "oldTestament": "Jeremiah 37-38",
+        "newTestament": "2 Timothy 3"
+    },
+    "2023-10-22": {
+        "oldTestament": "Psalms 119-1-88",
+        "newTestament": ""
+    },
+    "2023-10-23": {
+        "oldTestament": "Jeremiah 39:1-41:15",
+        "newTestament": "2 Timothy 4"
+    },
+    "2023-10-24": {
+        "oldTestament": "Jeremiah 41:16-45:5",
+        "newTestament": "Titus 1"
+    },
+    "2023-10-25": {
+        "oldTestament": "Jeremiah 46-48",
+        "newTestament": "Titus 2"
+    },
+    "2023-10-26": {
+        "oldTestament": "Jeremiah 49",
+        "newTestament": "Titus 3"
+    },
+    "2023-10-27": {
+        "oldTestament": "Jeremiah 50",
+        "newTestament": "Philemon"
+    },
+    "2023-10-28": {
+        "oldTestament": "Jeremiah 51",
+        "newTestament": "Hebrews 1:1-2:4"
+    },
+    "2023-10-29": {
+        "oldTestament": "Psalms 119:89-176",
+        "newTestament": ""
+    },
+    "2023-10-30": {
+        "oldTestament": "Jeremiah 52",
+        "newTestament": "Hebrews 2:5-3:6"
+    },
+    "2023-10-31": {
+        "oldTestament": "Lamentations 1-2",
+        "newTestament": "Hebrews 3:7-4:13"
+    },
+    "2023-11-01": {
+        "oldTestament": "Lamentations 3-5",
+        "newTestament": "Hebrews 4:14-5:10"
+    },
+    "2023-11-02": {
+        "oldTestament": "Ezekiel 1-3",
+        "newTestament": "Hebrews 5:11-6:20"
+    },
+    "2023-11-03": {
+        "oldTestament": "Ezekiel 4-7",
+        "newTestament": "Hebrews 7"
+    },
+    "2023-11-04": {
+        "oldTestament": "Ezekiel 8-11",
+        "newTestament": "Hebrews 8"
+    },
+    "2023-11-05": {
+        "oldTestament": "Psalms 120-124",
+        "newTestament": ""
+    },
+    "2023-11-06": {
+        "oldTestament": "Ezekiel 12-14",
+        "newTestament": "Hebrews 9"
+    },
+    "2023-11-07": {
+        "oldTestament": "Ezekiel 15-16",
+        "newTestament": "Hebrews 10:1-18"
+    },
+    "2023-11-08": {
+        "oldTestament": "Ezekiel 17-18",
+        "newTestament": "Hebrews 10:19-39"
+    },
+    "2023-11-09": {
+        "oldTestament": "Ezekiel 19-20",
+        "newTestament": "Hebrews 11:1-22"
+    },
+    "2023-11-10": {
+        "oldTestament": "Ezekiel 21-22",
+        "newTestament": "Hebrews 11:23-40"
+    },
+    "2023-11-11": {
+        "oldTestament": "Ezekiel 23-24",
+        "newTestament": "Hebrews 12:1-13"
+    },
+    "2023-11-12": {
+        "oldTestament": "Psalms 130-134",
+        "newTestament": ""
+    },
+    "2023-11-13": {
+        "oldTestament": "Ezekiel 25-26",
+        "newTestament": "Hebrews 12:14-29"
+    },
+    "2023-11-14": {
+        "oldTestament": "Ezekiel 27-28",
+        "newTestament": "Hebrews 13"
+    },
+    "2023-11-15": {
+        "oldTestament": "Ezekiel 29-30",
+        "newTestament": "James 1"
+    },
+    "2023-11-16": {
+        "oldTestament": "Ezekiel 31-32",
+        "newTestament": "James 2"
+    },
+    "2023-11-17": {
+        "oldTestament": "Ezekiel 33-34",
+        "newTestament": "James 3"
+    },
+    "2023-11-18": {
+        "oldTestament": "Ezekiel 35-37",
+        "newTestament": "James 4"
+    },
+    "2023-11-19": {
+        "oldTestament": "Psalms 125-129",
+        "newTestament": ""
+    },
+    "2023-11-20": {
+        "oldTestament": "Ezekiel 38-39",
+        "newTestament": "James 5"
+    },
+    "2023-11-21": {
+        "oldTestament": "Ezekiel 40-41",
+        "newTestament": "1 Peter 1:1-12"
+    },
+    "2023-11-22": {
+        "oldTestament": "Ezekiel 42-44",
+        "newTestament": "1 Peter 1:13-2:12"
+    },
+    "2023-11-23": {
+        "oldTestament": "Ezekiel 45-46",
+        "newTestament": "1 Peter 2:13-3:7"
+    },
+    "2023-11-24": {
+        "oldTestament": "Ezekiel 47-48",
+        "newTestament": "1 Peter 3:8-5:14"
+    },
+    "2023-11-25": {
+        "oldTestament": "Psalms 65 & Psalms 103",
+        "newTestament": "Tanksgiving Day"
+    },
+    "2023-11-26": {
+        "oldTestament": "Psalms 130-134",
+        "newTestament": ""
+    },
+    "2023-11-27": {
+        "oldTestament": "Daniel 1-2",
+        "newTestament": "2 Peter 1"
+    },
+    "2023-11-28": {
+        "oldTestament": "Daniel 3-4",
+        "newTestament": "2 Peter 2"
+    },
+    "2023-11-29": {
+        "oldTestament": "Daniel 5-6",
+        "newTestament": "2 Peter 3"
+    },
+    "2023-11-30": {
+        "oldTestament": "Daniel 7-8",
+        "newTestament": "1 John 1:1-2:6"
+    },
+    "2023-12-01": {
+        "oldTestament": "Daniel 9",
+        "newTestament": "1 Jon 2:7-27"
+    },
+    "2023-12-02": {
+        "oldTestament": "Daniel 10-12",
+        "newTestament": "1 John 2:28-3:24"
+    },
+    "2023-12-03": {
+        "oldTestament": "Psalms 135-137",
+        "newTestament": ""
+    },
+    "2023-12-04": {
+        "oldTestament": "Hosea 1-3",
+        "newTestament": "1 John 4"
+    },
+    "2023-12-05": {
+        "oldTestament": "Hosea 4-7",
+        "newTestament": "1 John 5"
+    },
+    "2023-12-06": {
+        "oldTestament": "Hosea 8-10",
+        "newTestament": "2 John"
+    },
+    "2023-12-07": {
+        "oldTestament": "Hosea 11-14",
+        "newTestament": "3 John"
+    },
+    "2023-12-08": {
+        "oldTestament": "Joel 1:1-2:17",
+        "newTestament": "Jude"
+    },
+    "2023-12-09": {
+        "oldTestament": "Joel 2:18-3:21",
+        "newTestament": "Revelation 1"
+    },
+    "2023-12-10": {
+        "oldTestament": "Psalms 138-141",
+        "newTestament": ""
+    },
+    "2023-12-11": {
+        "oldTestament": "Amos 1-2",
+        "newTestament": "Revelation 2"
+    },
+    "2023-12-12": {
+        "oldTestament": "Amos 3-4",
+        "newTestament": "Revelation 3"
+    },
+    "2023-12-13": {
+        "oldTestament": "Amos 5-6",
+        "newTestament": "Revelation 4"
+    },
+    "2023-12-14": {
+        "oldTestament": "Amos 7-9",
+        "newTestament": "Revelation 5"
+    },
+    "2023-12-15": {
+        "oldTestament": "Obadiah",
+        "newTestament": "Revelation 6"
+    },
+    "2023-12-16": {
+        "oldTestament": "Jonah",
+        "newTestament": "Revelation 7:1-8:1"
+    },
+    "2023-12-17": {
+        "oldTestament": "Psalms 142-144",
+        "newTestament": ""
+    },
+    "2023-12-18": {
+        "oldTestament": "Micah 1-3",
+        "newTestament": "Revelation 8:2-9:21"
+    },
+    "2023-12-19": {
+        "oldTestament": "Micah 4-5",
+        "newTestament": "Revelation 10-11"
+    },
+    "2023-12-20": {
+        "oldTestament": "Micah 6-7",
+        "newTestament": "Revelation 12:1-13:1a"
+    },
+    "2023-12-21": {
+        "oldTestament": "Nahum",
+        "newTestament": "Revelation 13:1b-18"
+    },
+    "2023-12-22": {
+        "oldTestament": "Habakkuk",
+        "newTestament": "Revelation 14"
+    },
+    "2023-12-23": {
+        "oldTestament": "Zephaniah",
+        "newTestament": "Revelation 15-16"
+    },
+    "2023-12-24": {
+        "oldTestament": "Matthew 1:18-2:12",
+        "newTestament": "Christmas Eve"
+    },
+    "2023-12-25": {
+        "oldTestament": "Luke 2:1-20",
+        "newTestament": "Christmas Day"
+    },
+    "2023-12-26": {
+        "oldTestament": "Zechariah 1-4",
+        "newTestament": "Revelation 17-18"
+    },
+    "2023-12-27": {
+        "oldTestament": "Zechariah 5-8",
+        "newTestament": "Revelation 19"
+    },
+    "2023-12-28": {
+        "oldTestament": "Zechariah 9-11",
+        "newTestament": "Revelation 20"
+    },
+    "2023-12-29": {
+        "oldTestament": "Zechariah 12-14",
+        "newTestament": "Revelation 21"
+    },
+    "2023-12-30": {
+        "oldTestament": "Malachi 1-4",
+        "newTestament": "Revelation 22"
+    },
+    "2023-12-31": {
+        "oldTestament": "Psalms 145-150",
+        "newTestament": ""
+    }
+}
