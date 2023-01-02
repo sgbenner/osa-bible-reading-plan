@@ -40,22 +40,33 @@
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
+    <!-- Faithlife Scripture Tagging Code: -->
     <script>
       var refTagger = {
         settings: {
-          bibleVersion: 'ESV'
+          bibleVersion: "ESV",			
+          tagChapters: true,
+          customStyle : {
+            heading: {
+              backgroundColor : "#000000",
+              color : "#000000"
+            },
+            body   : {
+              color : "#000000"
+            }
+          }
         }
-      }; 
-    
+      };
       (function(d, t) {
-        var n=d.querySelector('[nonce]');
-        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var n=d.querySelector("[nonce]");
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute("nonce"));
         var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-        g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+        g.src = "https://api.reftagger.com/v2/RefTagger.js";
         g.nonce = refTagger.settings.nonce;
         s.parentNode.insertBefore(g, s);
-      }(document, 'script'));
+      }(document, "script"));
     </script>
+    <!-- End of Faithlife Scripture Tagging -->
     <!--
       This HTML file is a template.
       If you open it directly in the browser, you will see an empty page.
