@@ -21,9 +21,6 @@ const Content2 = ({ styles }) => {
     const today = new Date().getDate();
     const todayRef = useRef(null);
 
-
-    console.log(`today: ${today}`)
-
     useEffect(() => {
         todayRef.current.scrollIntoView({ behavior: 'smooth' });
     }, []);
