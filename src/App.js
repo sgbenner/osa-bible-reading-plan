@@ -4,6 +4,7 @@ import TopBar from "./components/TopBar";
 import Content from "./components/Content";
 
 class App extends Component {
+  
   constructor(props) {
     super(props);
     this.state = {};
@@ -17,14 +18,6 @@ class App extends Component {
       footerMenuHeight: 50
     };
 
-    // const menuItems = [
-    //   { icon: `😀`, text: "Item 1" },
-    //   { icon: `😉`, text: "Item 2" },
-    //   { icon: `😎`, text: "Item 3" },
-    //   { icon: `🤔`, text: "Item 4" },
-    //   { icon: `😛`, text: "Item 5" }
-    // ];
-
     return (
       <div
         style={{
@@ -35,7 +28,6 @@ class App extends Component {
       >
         <TopBar styles={styles} />
         <Content styles={styles} />
-        {/* <FooterMenu menuItems={menuItems} styles={styles} /> */}
       </div>
     );
   }
