@@ -18,7 +18,7 @@ const Content2 = ({ styles }) => {
         paddingLeft: 20
     };
 
-    const today = new Date().getDate();
+    const todayDayOfYear = moment().dayOfYear()
     const todayRef = useRef(null);
 
     useEffect(() => {
@@ -45,7 +45,7 @@ const Content2 = ({ styles }) => {
         <div style={contentStyle}>
             {readingPlan.map((todaysReading, i) => {
                 return (
-                    <div ref={i + 2 === today ? todayRef : null} key={i} style={{ marginBottom: 40 }}>
+                    <div ref={i + 2 === todayDayOfYear ? todayRef : null} key={i} style={{ marginBottom: 40 }}>
                         <h2 style={{ marginBottom: 0 }}>{moment(todaysReading.day).format('dddd, MMMM D, YYYY')}</h2>
                         {/* If OT script exists, add to section */}
                         {todaysReading.oldTestament !== '' ?
